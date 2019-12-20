@@ -116,5 +116,5 @@ for y in range(s_ze[0]):
     for x in range(s_ze[1]):
         canvas_pixels[y, x] = new_colors['RGB' + str(y) + 'y' + str(x) + 'x']
 
-newimg.save('1a.jpg')
+newimg.save('2.jpg')
 newimg.show()
